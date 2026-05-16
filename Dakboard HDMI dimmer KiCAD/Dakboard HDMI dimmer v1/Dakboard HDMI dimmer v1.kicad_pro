@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,11 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.3,
+        1.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +240,16 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -240,7 +259,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -488,7 +507,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Mainboard v1.kicad_pro",
+    "filename": "Dakboard HDMI dimmer v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -651,12 +670,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Mainboard v1.kicad_sch",
+        "filename": "Dakboard HDMI dimmer v1.kicad_sch",
         "name": "Východzí",
         "uuid": "dd00e16c-567b-4378-86d5-e5798f6e80d7"
       }
     ],
-    "used_designators": "#FLG1-3,R1-6,J1-3,#PWR1-10,C1-5",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
