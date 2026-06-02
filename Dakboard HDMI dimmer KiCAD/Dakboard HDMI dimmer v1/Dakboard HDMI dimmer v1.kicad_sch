@@ -5452,7 +5452,7 @@
 				)
 			)
 		)
-		(property "Value" "47R"
+		(property "Value" "100R"
 			(at 228.346 67.056 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5931,7 +5931,7 @@
 				)
 			)
 		)
-		(property "Value" "47R"
+		(property "Value" "100R"
 			(at 228.092 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
