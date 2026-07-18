@@ -159,7 +159,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/170b02fe-28d9-4b27-8ed0-fe49885821c1")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -281,7 +281,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/23a5c649-e5ce-45c0-885a-27c8006185d0")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -403,7 +403,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e058d68b-3d8c-4987-9c5f-da63a91fad6e")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -525,7 +525,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/24e0808b-3200-460b-852a-04ff298cac17")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -651,7 +651,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d7d008f8-c6a6-44a0-a80f-1329545151c0")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -815,7 +815,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b5e6713d-0cbb-4208-bf61-66632670321d")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1375,7 +1375,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1296fbae-55c6-4e0d-8a4e-a5483873ead0")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1539,7 +1539,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4f68a7e5-8417-40fd-8b98-467dfae7dfa1")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1703,7 +1703,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/663f066b-7724-43db-ac44-5a21a41a8ab2")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1867,7 +1867,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/594e736a-7b58-4f5c-a199-4bfce4b9b735")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2031,7 +2031,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/68d1e930-a9f3-4168-b1e9-d6d9b3744442")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2196,7 +2196,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/2a79894b-2dd4-4c8e-aae3-2b3003d21065")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2913,7 +2913,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f03669a6-1c9f-4a35-ab8e-611485ff05a8")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3077,7 +3077,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/47c08169-1bd0-4d18-b50e-3ef848857760")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3899,7 +3899,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/569b68fa-8e73-4ffb-92a3-62af120a2baf")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4063,7 +4063,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c6af0c84-0191-46ec-9984-fea343f384b3")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4227,7 +4227,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/567671b9-6526-4fde-9459-2ab56c1f3546")
 		(sheetname "/")
-		(sheetfile "Dakboard HDMI dimmer v1.kicad_sch")
+		(sheetfile "Dakboard-HDMI-dimmer-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4405,7 +4405,7 @@
 		(layer "Edge.Cuts")
 		(uuid "a77a1272-8443-49f5-b131-1d54f80ece97")
 	)
-	(gr_text "Dakboard HDMI dimmer v1\nRev. 1\nDotaPie @ May 2026"
+	(gr_text "Dakboard-HDMI-dimmer-v1\nRev. 1\nDotaPie @ May 2026"
 		(at 126 92.25 90)
 		(layer "F.SilkS")
 		(uuid "f0e48fea-57cf-4c05-b86c-e7375f2a3611")

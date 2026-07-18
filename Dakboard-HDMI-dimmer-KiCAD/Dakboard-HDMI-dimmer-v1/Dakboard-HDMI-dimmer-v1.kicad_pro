@@ -507,7 +507,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Dakboard HDMI dimmer v1.kicad_pro",
+    "filename": "Dakboard-HDMI-dimmer-v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -670,7 +670,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Dakboard HDMI dimmer v1.kicad_sch",
+        "filename": "Dakboard-HDMI-dimmer-v1.kicad_sch",
         "name": "Východzí",
         "uuid": "dd00e16c-567b-4378-86d5-e5798f6e80d7"
       }

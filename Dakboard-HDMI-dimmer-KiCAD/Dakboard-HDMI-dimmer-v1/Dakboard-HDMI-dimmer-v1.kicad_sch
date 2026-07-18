@@ -3954,7 +3954,7 @@
 			(uuid "a8041df6-2360-4b43-8382-596e46af7b58")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR03")
 					(unit 1)
@@ -4033,7 +4033,7 @@
 			(uuid "058143bc-e3b0-4ba2-9afb-e8a7f014022b")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R6")
 					(unit 1)
@@ -4111,7 +4111,7 @@
 			(uuid "29221690-bd24-410c-921c-fbf71e5a52b2")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR01")
 					(unit 1)
@@ -4188,7 +4188,7 @@
 			(uuid "2d99222c-4213-4d76-8004-25fa2c12fda4")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#FLG01")
 					(unit 1)
@@ -4267,7 +4267,7 @@
 			(uuid "6453c65c-694e-4c45-beb1-ce7e8d5c6570")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "H4")
 					(unit 1)
@@ -4344,7 +4344,7 @@
 			(uuid "9e828a70-950b-4c41-a69d-922b91897712")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#FLG03")
 					(unit 1)
@@ -4423,7 +4423,7 @@
 			(uuid "ef17992f-aa48-4db3-b36f-51b3735c8287")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "H2")
 					(unit 1)
@@ -4502,7 +4502,7 @@
 			(uuid "e4028c6e-cf78-4622-9123-2652bf10db5a")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "H3")
 					(unit 1)
@@ -4695,7 +4695,7 @@
 			(uuid "244664b6-48d6-4bf6-90b1-b2c946bb7cee")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "J1")
 					(unit 1)
@@ -4773,7 +4773,7 @@
 			(uuid "09b50898-1137-481b-a3fc-8b0f94c33264")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR06")
 					(unit 1)
@@ -4851,7 +4851,7 @@
 			(uuid "54f741b8-64b3-447a-ac00-b2d2391be3a8")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR07")
 					(unit 1)
@@ -4929,7 +4929,7 @@
 			(uuid "d146dba2-bd65-4f0a-bfed-56f5f1b95fbf")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR011")
 					(unit 1)
@@ -5007,7 +5007,7 @@
 			(uuid "e36a19e0-05da-4833-8bed-482c02caf9ba")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR010")
 					(unit 1)
@@ -5098,7 +5098,7 @@
 			(uuid "ebdc4b89-e3e0-47dc-b5b4-3f8a7c69681e")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "J2")
 					(unit 1)
@@ -5179,7 +5179,7 @@
 			(uuid "0ae107ed-e837-4806-83da-6997cf11d7d4")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "C5")
 					(unit 1)
@@ -5260,7 +5260,7 @@
 			(uuid "d3723041-0d21-4c41-acbb-f8752e60631d")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "C4")
 					(unit 1)
@@ -5342,7 +5342,7 @@
 			(uuid "5d4f5156-8687-490f-b458-91bc9711b637")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R1")
 					(unit 1)
@@ -5423,7 +5423,7 @@
 			(uuid "3c123d6c-513f-4224-aa6e-683c3bf33d9a")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "C3")
 					(unit 1)
@@ -5502,7 +5502,7 @@
 			(uuid "cab9b674-9373-4282-953e-b8d1c184b54b")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R3")
 					(unit 1)
@@ -5583,7 +5583,7 @@
 			(uuid "8cee68f0-2740-4688-91ba-fd30a125b482")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R4")
 					(unit 1)
@@ -5661,7 +5661,7 @@
 			(uuid "ac99db68-4f71-4933-9888-7a8e5458a511")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR05")
 					(unit 1)
@@ -5739,7 +5739,7 @@
 			(uuid "6730eb42-7e3f-4fe8-b368-ce004e9664cf")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR02")
 					(unit 1)
@@ -5824,7 +5824,7 @@
 			(uuid "e42a6c8d-c243-44da-9649-50351fb51f49")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "J3")
 					(unit 1)
@@ -5902,7 +5902,7 @@
 			(uuid "57bfeea9-80b0-4529-8400-40b3bbed3516")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR04")
 					(unit 1)
@@ -5981,7 +5981,7 @@
 			(uuid "d030add1-1fcc-4a76-9909-450065660e0f")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R2")
 					(unit 1)
@@ -6058,7 +6058,7 @@
 			(uuid "8b1e62d4-1cd8-4881-a4c2-93a020e3478b")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR08")
 					(unit 1)
@@ -6135,7 +6135,7 @@
 			(uuid "a7c6cd4d-2d32-41c7-a1b0-8b54cddc7aab")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#FLG02")
 					(unit 1)
@@ -6216,7 +6216,7 @@
 			(uuid "23925333-19c8-499a-9075-fe093a952fae")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "C2")
 					(unit 1)
@@ -6295,7 +6295,7 @@
 			(uuid "1982ef42-7205-41b2-8558-db559cf6ebb9")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "H1")
 					(unit 1)
@@ -6373,7 +6373,7 @@
 			(uuid "ee086469-8a1f-4438-94d5-3d54498f7133")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "#PWR09")
 					(unit 1)
@@ -6454,7 +6454,7 @@
 			(uuid "c982c726-bca6-4ade-af37-2ea29626316a")
 		)
 		(instances
-			(project "Dakboard HDMI dimmer v1"
+			(project "Dakboard-HDMI-dimmer-v1"
 				(path "/dd00e16c-567b-4378-86d5-e5798f6e80d7"
 					(reference "R5")
 					(unit 1)
