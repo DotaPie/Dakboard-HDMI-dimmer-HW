@@ -45,9 +45,5 @@ Dakboard HDMI dimmer KiCAD/
 
 The gerber archive in `gerber_to_order/` is ready to upload to [JLCPCB](https://jlcpcb.com/) (or any fabricator) as-is. To modify the design, open the project in [KiCAD](https://www.kicad.org/) 7 or newer.
 
-## Assembly
+## Below is an example of full HW installation with custom cabling
 
-1. Solder the 40-pin header (J1), the BH1750 module header (J2), and the PIR header (J3).
-2. Plug in a BH1750 module and a PIR sensor module.
-3. Seat the board on the Raspberry Pi's GPIO header.
-4. Install and configure the [FW](https://github.com/DotaPie/Dakboard-HDMI-dimmer-FW).
