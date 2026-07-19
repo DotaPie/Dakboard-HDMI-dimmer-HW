@@ -1,4 +1,4 @@
-# Dakboard HDMI Dimmer — Hardware
+# Dakboard HDMI Dimmer - Hardware
 
 A Raspberry Pi HAT that carries a BH1750 ambient-light sensor and a PIR motion sensor for automatic HDMI display dimming.
 
