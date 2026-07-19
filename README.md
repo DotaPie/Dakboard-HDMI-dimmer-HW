@@ -47,3 +47,9 @@ The gerber archive in `gerber_to_order/` is ready to upload to [JLCPCB](https://
 
 ## Below is an example of full HW installation with custom cabling
 
+<img width="545" height="907" alt="Snímka obrazovky 2026-07-19 014746" src="https://github.com/user-attachments/assets/53bc5359-ebfc-4817-b979-dbe4fa9f4b6a" />
+<img width="3000" height="4000" alt="20260607_161944" src="https://github.com/user-attachments/assets/bf986c6a-06da-4745-a4c8-6066a58a8712" />
+<img width="3000" height="4000" alt="20260607_170730" src="https://github.com/user-attachments/assets/729144fb-1ba8-4100-a02a-4949af2f7abd" />
+<img width="3000" height="4000" alt="20260607_172544" src="https://github.com/user-attachments/assets/96e8d1f2-ef64-48d8-98fa-cdc495262558" />
+<img width="3000" height="4000" alt="20260607_173511" src="https://github.com/user-attachments/assets/f1c963a1-4b0e-49d9-b4f6-58f8fe9583f3" />
+
