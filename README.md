@@ -6,12 +6,12 @@ Designed for the Raspberry Pi Zero 2 W, but it mounts on any Raspberry Pi with t
 
 ## What's on the board
 
-- **40-pin GPIO header (J1)** — mounts the board as a HAT and breaks out power, I²C, and the PIR line
-- **BH1750 light sensor header (J2)** — 5-pin module (VCC / GND / SCL / SDA / ADDR) on I²C bus 1, address `0x23`, with 4K7 pull-ups
-- **PIR motion sensor header (J3)** — 3-pin module (VCC / OUT / GND) with the output on GPIO24 (BCM), physical pin 18
+- **40-pin GPIO header (J1)** - mounts the board as a HAT and breaks out power, I²C, and the PIR line
+- **BH1750 light sensor header (J2)** - 5-pin module (VCC / GND / SCL / SDA / ADDR) on I²C bus 1, address `0x23`, with 4K7 pull-ups
+- **PIR motion sensor header (J3)** - 3-pin module (VCC / OUT / GND) with the output on GPIO24 (BCM), physical pin 18
 - Decoupling and signal-conditioning passives, plus four mounting holes
 
-The BH1750 runs at 3.3 V on the Pi's primary I²C bus; the PIR is powered from 5 V and its output is fed to a GPIO. All dimming logic lives in the firmware — this board just carries the sensors.
+The BH1750 runs at 3.3 V on the Pi's primary I²C bus; the PIR is powered from 5 V and its output is fed to a GPIO. All dimming logic lives in the firmware - this board just carries the sensors.
 
 ## Pin usage
 
